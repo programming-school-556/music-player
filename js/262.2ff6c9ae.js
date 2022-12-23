@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmusic_player"]=self["webpackChunkmusic_player"]||[]).push([[262],{9262:function(n,u,e){e.r(u),e.d(u,{default:function(){return i}});var t=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,u=n._self._c;return u("div",[u("h1",[n._v("тоби жопа")])])}],s={props:{},components:{},data(){return{}},mounted(){},methods:{}},l=s,c=e(1001),a=(0,c.Z)(l,t,r,!1,null,null,null),i=a.exports}}]);
+//# sourceMappingURL=262.2ff6c9ae.js.map
